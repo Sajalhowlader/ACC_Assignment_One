@@ -1,6 +1,6 @@
 const users = [
   {
-    _id: "6316fd995fc54fbe644e9fca",
+    id: 1,
     gender: "male",
     name: "Pierce Zamora",
     contact: "+1 (909) 487-3661",
@@ -8,7 +8,7 @@ const users = [
     photoUrl: "http://placehold.it/32x32",
   },
   {
-    _id: "6316fd99b43fd856b0c96f00",
+    id: 2,
     gender: "male",
     name: "Dudley Roman",
     contact: "+1 (804) 569-2839",
@@ -16,7 +16,7 @@ const users = [
     photoUrl: "http://placehold.it/32x32",
   },
   {
-    _id: "6316fd99cd20990348a189ed",
+    id: 3,
     gender: "male",
     name: "Case Allen",
     contact: "+1 (897) 478-2786",
@@ -24,7 +24,7 @@ const users = [
     photoUrl: "http://placehold.it/32x32",
   },
   {
-    _id: "6316fd9997fc004af04a576f",
+    id: 4,
     gender: "male",
     name: "Ayala Finch",
     contact: "+1 (968) 411-3604",
@@ -32,7 +32,7 @@ const users = [
     photoUrl: "http://placehold.it/32x32",
   },
   {
-    _id: "6316fd99d3f3cb6613785912",
+    id: 5,
     gender: "male",
     name: "Lucinda Barnes",
     contact: "+1 (840) 577-2501",
@@ -40,7 +40,7 @@ const users = [
     photoUrl: "http://placehold.it/32x32",
   },
   {
-    _id: "6316fd9923f62d11e01fd5c9",
+    id: 6,
     gender: "female",
     name: "Sharpe Dixon",
     contact: "+1 (970) 545-2657",
@@ -48,7 +48,7 @@ const users = [
     photoUrl: "http://placehold.it/32x32",
   },
   {
-    _id: "6316fd998b2ba9470dc95506",
+    id: 7,
     gender: "male",
     name: "Pacheco Jones",
     contact: "+1 (946) 507-2315",
@@ -56,7 +56,7 @@ const users = [
     photoUrl: "http://placehold.it/32x32",
   },
   {
-    _id: "6316fd99ff03602106cad85b",
+    id: 8,
     gender: "male",
     name: "Simon Petty",
     contact: "+1 (928) 498-2901",
@@ -64,7 +64,7 @@ const users = [
     photoUrl: "http://placehold.it/32x32",
   },
   {
-    _id: "6316fd9945102acbf9786cc2",
+    id: 9,
     gender: "male",
     name: "Garcia Cardenas",
     contact: "+1 (894) 547-2472",
@@ -72,7 +72,7 @@ const users = [
     photoUrl: "http://placehold.it/32x32",
   },
   {
-    _id: "6316fd997a1635f39fe34dc0",
+    id: 10,
     gender: "male",
     name: "Reba Burgess",
     contact: "+1 (800) 562-2254",
