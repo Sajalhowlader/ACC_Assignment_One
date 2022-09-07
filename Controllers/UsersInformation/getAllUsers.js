@@ -1,5 +1,7 @@
+const users = require("../../Users");
+
 const getAllUsers = (req, res) => {
-  res.send(users.json);
+  res.json(users);
 };
 module.exports = {
   getAllUsers,
